@@ -1,0 +1,24 @@
+body{
+      
+    background-color: brown
+
+}
+.container{
+    color: azure;
+    align-items: center;
+    display: block;
+    margin: 200px;
+}
+.logo{
+    align-items: center;
+    color: bisque;
+}
+form{
+    text-align: center;
+    color: bisque;
+    border: solid;
+    flex-direction: center;
+    
+
+    
+}
